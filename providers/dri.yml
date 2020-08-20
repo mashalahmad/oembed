@@ -2,7 +2,7 @@ Name: DRI
   provider_url: https://www.dri.ie/
   endpoints:
   - schemes:
-    - https://*.dri.ie/*
-    url: https://api.dri.ie/oembed
+    - https://*.dri.ie/catalog/*
+    url: https://www.dri.ie/oembed
     discovery: true
 ...
